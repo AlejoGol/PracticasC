@@ -30,7 +30,7 @@ int main(void) {
 
 char* string_concat(const char* first_string, const char* second_string) {
     int concat_size = strlen(first_string) + strlen(second_string);
-    char* concat_string = malloc(concat_size);
+    char* concat_string = malloc(sizeof(char) * concat_size);
     strcat(concat_string, first_string);
     strcat(concat_string, second_string);
     return concat_string;
