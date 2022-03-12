@@ -1,0 +1,5 @@
+CABA; Emma; 14; 1193281045; 49184295; 0$
+CABA; Alejo Goltzman; 19; 1130153065; 43994311; 200$
+Provincia de BsAs; Tomas Sotelo; 23; 1183026591; 34937105; 50$
+CABA; Claudia Litvak; 59; 1133817745; 16131444; 500$
+Provincia de BsAs; Brenda Lara Goltzman; 28; 1183026591; 34937105; 50$

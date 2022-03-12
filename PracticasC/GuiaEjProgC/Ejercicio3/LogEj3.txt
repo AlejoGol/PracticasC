@@ -1,0 +1,6 @@
+[TRACE] 16:41:45:691 Ejercicio3/(8412:8412): CABA | 14 | 49184295 | Emma | 1193281045
+
+[TRACE] 16:42:16:584 Ejercicio3/(8451:8451): Provincia de BsAs | 23 | 34937105 | Tomas Sotelo | 1183026591
+
+[TRACE] 16:42:16:587 Ejercicio3/(8451:8451): Provincia de BsAs | 28 | 34937105 | Brenda Lara Goltzman | 1183026591
+
